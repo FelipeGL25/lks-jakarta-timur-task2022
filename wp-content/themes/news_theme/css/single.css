@@ -1,0 +1,20 @@
+.blank {
+    margin-top : 400p
+}
+
+
+.card {
+    margin-left : 100px;
+    margin-right: 100px;
+    margin-top : 100px;
+    border : 1px solid gainsboro;
+    max-height: 100%;
+    max-width: 100%;
+    padding: 20px;
+}
+
+
+.card > h1 , p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
